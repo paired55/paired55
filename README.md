@@ -17,6 +17,6 @@ A calculator made in Javascript
 
 + https://github.com/paired55/jscalculator
 
-A landing page - ^ to get to know me more ;) ^
+A landing page - _to get to know me more ;)_
 
 + https://github.com/paired55/landingpage
