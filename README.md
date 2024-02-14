@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**paired55/paired55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+Eager to learn and easily amused! I'm currently learning full stack web development along with a bunch of other things.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A game of rock, paper, scissors that you play against the computer
+
++ https://github.com/paired55/rps
+
+A calculator made in Javascript 
+
++ https://github.com/paired55/jscalculator
+
+A landing page - __to get to know me more ;)__
+
++ https://github.com/paired55/landingpage
