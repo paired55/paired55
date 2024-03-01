@@ -1,26 +1,40 @@
-# Hello there!
+# Hi!
 
 ## About Me 
-Eager to learn and easily amused! I'm currently learning full stack web development along with a bunch of other things.
+25 year old. Hoping to be somewhat good at software development.
 
-## Projects
+## Projects I made
 
-A dynamic Sketchbook.
+### Games
+
+A Sketchbook
 
 + https://github.com/paired55/etchASketch
 
-A website to keep track of the books you read or intend on reading
-
-* https://github.com/paired55/projectLibrary
-
-A game of rock, paper, scissors that you play against the computer
+Rock, Paper Scissors
 
 + https://github.com/paired55/rps
 
-A calculator made in Javascript 
+Tic, Tac, Toe
 
-+ https://github.com/paired55/jscalculator
++ https://github.com/paired55/ticTacToe
 
-A landing page - _to get to know me more ;)_
+### Productivity
 
-+ https://github.com/paired55/landingpage
+To do app.
+
++ https://github.com/paired55/todoapp
+
+Book Library
+
++ https://github.com/paired55/projectLibrary
+
+### Miscellaneous
+
+Website dashboard mockup
+
++ https://github.com/paired55/dashboard-mockup
+
+Personal landing page
+
+https://github.com/paired55/landingpage
