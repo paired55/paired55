@@ -37,4 +37,4 @@ Website dashboard mockup
 
 Personal landing page
 
-https://github.com/paired55/landingpage
++ https://github.com/paired55/landingpage
