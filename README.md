@@ -21,6 +21,10 @@ Tic, Tac, Toe
 
 ### Productivity
 
+Weather App
+
++ https://github.com/paired55/getWeather
+
 To do app.
 
 + https://github.com/paired55/todoapp
@@ -28,6 +32,7 @@ To do app.
 Book Library
 
 + https://github.com/paired55/projectLibrary
+
 
 ### Miscellaneous
 
