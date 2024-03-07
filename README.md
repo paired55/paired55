@@ -1,9 +1,27 @@
 # Hi!
 
 ## About Me 
-25 year old. Hoping to be somewhat good at software development.
+25 year old. Hoping to be somewhat good at Frontend development. I also write on Medium.com sometimes.
 
-## Projects I made
+## Things I made (so far):
+
+### Productivity
+
+Random Movie Generator that contains ~3000 movies
+
++ https://github.com/paired55/kinemaRoulette
+
+Weather app
+
++ https://github.com/paired55/getWeather
+
+To do app
+
++ https://github.com/paired55/todoapp
+
+Simple website to keep track of books you read
+
++ https://github.com/paired55/projectLibrary
 
 ### Games
 
@@ -11,30 +29,15 @@ A Sketchbook
 
 + https://github.com/paired55/etchASketch
 
-Rock, Paper Scissors
+Rock, Paper, Scissors
 
 + https://github.com/paired55/rps
 
-Tic, Tac, Toe
+Tic Tac Toe
 
 + https://github.com/paired55/ticTacToe
 
-### Productivity
-
-Weather App
-
-+ https://github.com/paired55/getWeather
-
-To do app.
-
-+ https://github.com/paired55/todoapp
-
-Book Library
-
-+ https://github.com/paired55/projectLibrary
-
-
-### Miscellaneous
+### Other Stuff
 
 Website dashboard mockup
 
